@@ -1,5 +1,7 @@
 # Loan-Prediction- Classification Problem 
-      This loan prediction is one of competitons in kaggle website(https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset).
+      This loan prediction is one of competitons in kaggle website
+      
+      (https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset).
       
 Objective: Whether the customer will get loan 
 
