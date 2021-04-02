@@ -3,7 +3,7 @@
       
       (https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset).
       
-Objective: Whether the customer will get loan 
+Objective: Whether the customer will get loan or not 
 
 Variables : 
  Gender : Male /Female 
